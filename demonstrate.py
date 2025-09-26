@@ -1,0 +1,7 @@
+def my_func():
+    a=5
+    b=6
+    c=a+b
+    return c
+
+my_func()
